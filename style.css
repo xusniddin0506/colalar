@@ -2,3 +2,6 @@ nav{
     display: flex;
     border: 1px solid red;
 }
+footer{
+    border: 1px solid blue;
+}
